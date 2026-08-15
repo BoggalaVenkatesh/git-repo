@@ -1,1 +1,1 @@
-console("new feature 2");
+console("conflict 1");
